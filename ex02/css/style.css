@@ -1,1 +1,21 @@
-
+ body{
+        background:#C9A227;
+        color:white;
+        font-family:"Times New Roman";
+        padding:30px 60px;
+    }
+    h1{
+        text-align: center;
+        text-shadow:2px 2px 3px gray;
+    }
+    img{
+        width:390px;
+        float:right;
+        margin-left: 30px;
+        border:4px solid white;
+    }
+    p{
+        font-size:24px;
+        font-weight:bold;
+        text-align: justify;
+    }
