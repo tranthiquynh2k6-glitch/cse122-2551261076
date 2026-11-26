@@ -24,7 +24,7 @@ h1 span {
     max-height: 280px;
     object-fit: cover;
     border-radius: 8px;
-    margin: 16px 0 0;
+    margin: 16px 0;
 }
 p {
     font-family: "Times New Roman", serif;
