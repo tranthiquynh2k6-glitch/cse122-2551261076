@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 24px;
+    color: #111111;
+}
+
+.khung-trang {
+    max-width: 760px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #C2185B;
+    font-size: 26px;
+    text-align: center;
+    margin: 0 0 22px;
+}
+
+.bo-cuc-2-cot {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+    gap: 24px;
+    align-items: start;
+}
+
+.cot-trai img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.nhan-muc {
+    display: inline-block;
+    background-color: #FFC0CB;
+    color: #000000;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 4px 10px;
+    margin: 0 0 10px;
+}
+
+.ds-vuong {
+    list-style-type: square;
+    line-height: 1.9;
+    margin: 0 0 18px;
+    padding-left: 22px;
+}
+
+.ds-tron {
+    list-style-type: circle;
+    line-height: 1.9;
+    margin: 0 0 24px;
+    padding-left: 22px;
+}
+
+.ban-quyen {
+    text-align: center;
+    color: #0000EE;
+    text-decoration: underline;
+    margin-top: 16px;
+}
